@@ -1,0 +1,13 @@
+Metric,Value
+Final Test Accuracy,53.48%
+Final Test Balanced Accuracy,52.84%
+Final Test ROC-AUC,52.67%
+UP Precision,60.78%
+UP Recall,15.12%
+Number of Trades,51
+Winning Trades,35
+Trade Win Rate,68.63%
+Strategy Return,+19.04%
+Buy & Hold Return,-4.58%
+Maximum Drawdown,-2.82%
+Sharpe Ratio,1.498

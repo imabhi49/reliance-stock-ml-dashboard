@@ -1,0 +1,7 @@
+Feature_Set,Model,Mean_ROC_AUC,Mean_Balanced_Accuracy
+Original,Random Forest,0.503969,0.500005
+Refined,Random Forest,0.50955,0.50079
+Market Context,Random Forest,0.523191,0.501701
+Original,XGBoost,0.517091,0.507504
+Refined,XGBoost,0.5063,0.5006
+Market Context,XGBoost,0.51104,0.500743

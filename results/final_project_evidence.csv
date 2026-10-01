@@ -1,0 +1,10 @@
+Stage,Result,Metric,Value
+Initial Validation,Random Forest,ROC-AUC,0.540371
+Walk-Forward,Market-context Random Forest,Mean ROC-AUC,0.523191
+Final Unseen Test,Market-context Random Forest,ROC-AUC,0.5267
+Final Unseen Test,Market-context Random Forest,Balanced Accuracy,0.5284
+Backtest,Selective Strategy,Total Return,0.1904
+Backtest,Selective Strategy,Trade Win Rate,0.6863
+Backtest,Selective Strategy,Maximum Drawdown,-0.0282
+Backtest,Selective Strategy,Sharpe Ratio,1.498
+Benchmark,Reliance Buy and Hold,Total Return,-0.045812310797174516
